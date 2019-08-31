@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipetypes>
+    <recipetype>
+        <name>All</name>
+        <id>1</id>
+    </recipetype>
+    <recipetype>
+        <name>Chinese Cuisine</name>
+        <id>2</id>
+    </recipetype>
+    <recipetype>
+        <name>Western Cuisine</name>
+        <id>3</id>
+    </recipetype>
+    <recipetype>
+        <name>Korean Cuisine</name>
+        <id>4</id>
+    </recipetype>
+</recipetypes>

@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="standard">16dp</dimen>
+    <dimen name="standard_large">32dp</dimen>
+    <dimen name="standard_half">8dp</dimen>
+    <dimen name="standard_quarter">4dp</dimen>
+
+    <dimen name="header_height">256dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>
